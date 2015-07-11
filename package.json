@@ -1,0 +1,26 @@
+{
+  "name": "chime_backend",
+  "version": "1.0.0",
+  "description": "Backend for Safeway.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "mongodb": "^2.0.35",
+    "monk": "^1.0.1",
+    "multer": "^0.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dvdhsu/chime_backend"
+  },
+  "author": "dvdhsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvdhsu/chime_backend/issues"
+  },
+  "homepage": "https://github.com/dvdhsu/chime_backend"
+}
